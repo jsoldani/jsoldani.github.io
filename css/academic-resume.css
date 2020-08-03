@@ -1,0 +1,59 @@
+body {
+    font-size: 16px;
+}
+
+/* Landing page (lp) */
+.lp {
+    background-color: #343a40!important;
+}
+
+.lp-header{
+    margin-top: 60px;
+}
+.lp-row{
+    padding-top: 25px;
+    text-align: center;
+    display: block;
+    position: relative;
+    color: #eee;
+}
+
+.lp-pic{
+    width: 125px;
+    margin-bottom: 25px;
+    border-radius: 100%;
+}
+
+.lp-logo{
+    width: 85px;
+}
+
+.lp-title, .lp-icons{
+    font-size: 2.5rem;
+    margin-top: 0px;
+    margin-bottom: 14px;
+}
+
+.lp-subtitle{
+    font-size: 1.15rem;
+    color: #ccc;
+}
+
+.lp-link {
+    font-size: 1.25rem;
+    font-weight: 500;
+    margin: 0 5px;
+    color: #ccc;
+}
+
+.lp-link:hover {
+    text-decoration: none;
+    color: #666;
+}
+
+/* Content pages (cp) */
+.cp-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-top: 0;
+}
