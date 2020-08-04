@@ -1,6 +1,7 @@
 body {
-    font-size: 16px;
+    font-size: 14px;
     padding-top: 60px;
+    text-align: justify;
 }
 
 /* Landing page (lp) */
@@ -66,12 +67,12 @@ body {
 }
 
 
-.cp-title, .cp-highlight-text {
+.cp-title, .cp-highlight-text, .cp-publication-title  {
     font-weight: 700;
     color: #343a40!important;
 }
 
-.cp-inline-title {
+.cp-inline-title, {
     font-size: 1.15rem;
     font-weight: 700;
     color: #343a40!important;
@@ -80,4 +81,17 @@ body {
 .cp-contact-info {
     padding-top: 10px;
     font-size: 1.15rem;
+}
+
+/* Badges */
+.badge-journal {
+    background: #c32b72;
+}
+
+.badge-proceedings {
+    background: #196ca3;
+}
+
+.badge-misc {
+    background: #606b70;
 }
