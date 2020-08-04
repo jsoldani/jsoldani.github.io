@@ -1,5 +1,6 @@
 body {
     font-size: 16px;
+    padding-top: 60px;
 }
 
 /* Landing page (lp) */
@@ -56,4 +57,14 @@ body {
     font-size: 1.5rem;
     font-weight: bold;
     padding-top: 0;
+}
+
+.cp-title {
+    font-weight: 700;
+    color: #343a40!important;
+}
+
+.cp-contact-info {
+    padding-top: 10px;
+    font-size: 1.15rem;
 }
