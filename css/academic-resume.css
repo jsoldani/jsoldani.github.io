@@ -56,7 +56,23 @@ body {
     padding-top: 0;
 }
 
-.cp-title {
+.cp-link {
+    color: #306885;
+    text-decoration: underline;
+}
+
+.cp-link:hover {
+    color: #528aa7;
+}
+
+
+.cp-title, .cp-highlight-text {
+    font-weight: 700;
+    color: #343a40!important;
+}
+
+.cp-inline-title {
+    font-size: 1.15rem;
     font-weight: 700;
     color: #343a40!important;
 }
