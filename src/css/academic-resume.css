@@ -38,16 +38,16 @@ body {
     color: #ccc;
 }
 
-.lp-link {
-    font-size: 1.25rem;
+.lp-btn {
+    font-size: .85rem;
     font-weight: 500;
-    margin: 0 5px;
-    color: #ccc;
+    margin: 2px;
+    background-color: #787e84;
 }
 
-.lp-link:hover {
+.lp-btn:hover {
     text-decoration: none;
-    color: #666;
+    background-color: #aaa;
 }
 
 /* Content pages (cp) */
