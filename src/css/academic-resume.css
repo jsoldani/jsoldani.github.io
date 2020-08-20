@@ -38,6 +38,15 @@ body {
     color: #ccc;
 }
 
+.lp-link {
+    color: #ddd;
+}
+
+.lp-link:hover {
+    color: #528aa7;
+    text-decoration: none;
+}
+
 .lp-btn {
     font-size: .85rem;
     font-weight: 500;
