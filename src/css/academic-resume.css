@@ -109,6 +109,10 @@ body {
     background: #606b70;
 }
 
+.badge-volume {
+    background: #00cfbf;
+}
+
 /* Timeline */
 ul.timeline {
     list-style-type: none;
