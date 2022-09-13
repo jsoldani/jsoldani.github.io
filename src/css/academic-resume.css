@@ -96,6 +96,10 @@ body {
     font-size: 1.15rem;
 }
 
+.cp-light {
+    color: #AAAAAA;
+}
+
 /* Badges */
 .badge-journal {
     background: #c32b72;
