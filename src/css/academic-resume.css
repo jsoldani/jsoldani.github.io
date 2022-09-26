@@ -6,7 +6,7 @@ body {
 
 /* Landing page (lp) */
 .lp {
-    background-color: #343a40!important;
+    background-color: #003c71!important;
 }
 
 .lp-row{
@@ -51,15 +51,19 @@ body {
     font-size: .85rem;
     font-weight: 500;
     margin: 2px;
-    background-color: #787e84;
+    background-color: #acb8d7;
 }
 
 .lp-btn:hover {
     text-decoration: none;
-    background-color: #aaa;
+    background-color: #CCD7E4;
 }
 
 /* Content pages (cp) */
+.cp-navbar {
+    background-color: #003c71!important;
+}
+
 .cp-brand {
     font-size: 1.5rem;
     font-weight: bold;
@@ -82,13 +86,13 @@ body {
 
 .cp-title, .cp-highlight-text, .cp-publication-title  {
     font-weight: 700;
-    color: #343a40!important;
+    color: #003c71!important;
 }
 
 .cp-inline-title {
     font-size: 1.15rem;
     font-weight: 700;
-    color: #343a40!important;
+    color: #003c71!important;
 }
 
 .cp-contact-info {
@@ -98,6 +102,11 @@ body {
 
 .cp-light {
     color: #AAAAAA;
+}
+
+.cp-shaded {
+    color: #383d41;
+    background-color: #dde8f6!important;
 }
 
 /* Badges */
@@ -142,7 +151,7 @@ ul.timeline > li:before {
     display: inline-block;
     position: absolute;
     border-radius: 50%;
-    border: 3px solid #343a40;
+    border: 3px solid #003c71;
     left: 20px;
     width: 20px;
     height: 20px;
