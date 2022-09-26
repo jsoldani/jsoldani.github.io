@@ -8,7 +8,7 @@ body {
 
 /* Landing page (lp) */
 .lp {
-    background-color: #003c71!important;
+    background-color: #085a9d!important;
 }
 
 .lp-row{
@@ -63,7 +63,7 @@ body {
 
 /* Content pages (cp) */
 .cp-navbar {
-    background-color: #003c71!important;
+    background-color: #085a9d!important;
 }
 
 .cp-brand {
@@ -88,13 +88,13 @@ body {
 
 .cp-title, .cp-highlight-text, .cp-publication-title  {
     font-weight: 700;
-    color: #003c71!important;
+    color: #085a9d!important;
 }
 
 .cp-inline-title {
     font-size: 1.15rem;
     font-weight: 700;
-    color: #003c71!important;
+    color: #085a9d!important;
 }
 
 .cp-contact-info {
@@ -153,7 +153,7 @@ ul.timeline > li:before {
     display: inline-block;
     position: absolute;
     border-radius: 50%;
-    border: 3px solid #003c71;
+    border: 3px solid #085a9d;
     left: 20px;
     width: 20px;
     height: 20px;
