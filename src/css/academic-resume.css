@@ -53,12 +53,14 @@ body {
     font-size: .85rem;
     font-weight: 500;
     margin: 2px;
-    background-color: #acb8d7;
+    color: #cccccc;
+    background-color: #1062a4;
 }
 
 .lp-btn:hover {
     text-decoration: none;
-    background-color: #CCD7E4;
+    color: #085a9d;
+    background-color: #cccccc;
 }
 
 /* Content pages (cp) */
