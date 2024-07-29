@@ -126,6 +126,10 @@ body {
     background: #606b70;
 }
 
+.badge-book {
+    background: #f9ca2f;
+}
+
 .badge-volume {
     background: #00cfbf;
 }
